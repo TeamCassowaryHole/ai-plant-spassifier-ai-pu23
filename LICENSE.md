@@ -1,4 +1,4 @@
-# 
+# Sécurisé AI Plant Species Classifier scripts. Avec reconnaissance d'images et intégration de chatbot — optimisé pour des performances maximales.
 
 
 
